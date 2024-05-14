@@ -6,6 +6,9 @@ Criei uma plataforma de trabalho fullStack com React e Flask do Python
 * No Backend utilizei o Flask e SQLAlchemy para criar uma api onde hospedaria um bando de dados dos usuarios e o routes que contém definições de rotas adicionais da API.
 ### 💡 Pre-Requisitos
 * React no frontend, estilização com Chakra
+```
+https://v2.chakra-ui.com/
+```
 * Python utilizando o Flask e SQLAlchemy
 ### ⛏️ Ferramentas 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
